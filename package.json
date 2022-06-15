@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-labels",
+  "version": "1.0.1",
+  "description": "Responsive Labels built with Bootstrap 5. Badge Labels are for counters, categories & tags. Floating labels refer to forms, and slider labels to the range.",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-labels.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "responsive",
+    "labels",
+    "badges",
+    "responsive-design",
+    "responsive-template",
+    "bootstrap5"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-labels/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/labels/"
+}
