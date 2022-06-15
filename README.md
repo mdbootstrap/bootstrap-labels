@@ -5,7 +5,6 @@ Check out [Bootstrap Labels Documentation](https://mdbootstrap.com/docs/standard
 
 > :warning: **Important**: The term "Bootstrap Label" is currently very ambiguous. Many different elements are colloquially referred to as "Labels" by some developers. We created this page to help you find the proper component that you are looking for. You will find more examples of each one in the main documentation pages that are linked below.
 
-![Bootstrap Dark Mode](https://mdbootstrap.com/img/Marketing/github/dark-mode/basic.jpeg)
 
 
 ## Badge Labels
